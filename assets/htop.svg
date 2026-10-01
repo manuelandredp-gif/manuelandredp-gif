@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420" font-family="'Fira Code','JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="14">
+  <defs>
+    <filter id="gl" x="-10%" y="-50%" width="120%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- ventana -->
+  <rect x="0.5" y="0.5" width="999" height="419" rx="14" fill="#0d1117" stroke="#00FFB3" stroke-width="1.5"/>
+  <rect x="0.5" y="0.5" width="999" height="40" rx="14" fill="#0a0f0d"/>
+  <rect x="0.5" y="26" width="999" height="15" fill="#0a0f0d"/>
+  <line x1="0.5" y1="41" x2="999.5" y2="41" stroke="#00FFB3" stroke-opacity="0.35"/>
+  <circle cx="24" cy="21" r="6.5" fill="#ff5f57"/>
+  <circle cx="46" cy="21" r="6.5" fill="#febc2e"/>
+  <circle cx="68" cy="21" r="6.5" fill="#00FFB3"/>
+  <text x="500" y="26" text-anchor="middle" font-size="13" fill="#8b949e">htop — manuel@tacna · lo que corre en mi máquina</text>
+
+  <!-- CPU -->
+  <g font-size="13">
+    <text x="24" y="70" fill="#00FFB3" font-weight="700">1</text><text x="40" y="70" fill="#8b949e">[</text>
+    <rect x="50" y="59" width="210" height="13" fill="#0a1f19"/>
+    <rect x="50" y="59" width="150" height="13" fill="#00FFB3" filter="url(#gl)"><animate attributeName="width" values="150;196;120;168;150" dur="4s" repeatCount="indefinite"/></rect>
+    <text x="264" y="70" fill="#8b949e">]</text><text x="276" y="70" fill="#c9d1d9">cpu</text>
+
+    <text x="24" y="92" fill="#00FFB3" font-weight="700">2</text><text x="40" y="92" fill="#8b949e">[</text>
+    <rect x="50" y="81" width="210" height="13" fill="#0a1f19"/>
+    <rect x="50" y="81" width="100" height="13" fill="#00FFB3" filter="url(#gl)"><animate attributeName="width" values="100;160;80;140;100" dur="5s" repeatCount="indefinite"/></rect>
+    <text x="264" y="92" fill="#8b949e">]</text><text x="276" y="92" fill="#c9d1d9">cpu</text>
+
+    <text x="340" y="70" fill="#00FFB3" font-weight="700">3</text><text x="356" y="70" fill="#8b949e">[</text>
+    <rect x="366" y="59" width="210" height="13" fill="#0a1f19"/>
+    <rect x="366" y="59" width="60" height="13" fill="#00FFB3" filter="url(#gl)"><animate attributeName="width" values="60;120;40;90;60" dur="4.5s" repeatCount="indefinite"/></rect>
+    <text x="580" y="70" fill="#8b949e">]</text><text x="592" y="70" fill="#c9d1d9">cpu</text>
+
+    <text x="340" y="92" fill="#00FFB3" font-weight="700">4</text><text x="356" y="92" fill="#8b949e">[</text>
+    <rect x="366" y="81" width="210" height="13" fill="#0a1f19"/>
+    <rect x="366" y="81" width="180" height="13" fill="#00FFB3" filter="url(#gl)"><animate attributeName="width" values="180;130;200;150;180" dur="3.5s" repeatCount="indefinite"/></rect>
+    <text x="580" y="92" fill="#8b949e">]</text><text x="592" y="92" fill="#c9d1d9">cpu</text>
+
+    <text x="660" y="70" fill="#00FFB3" font-weight="700">Mem</text><text x="692" y="70" fill="#8b949e">[</text>
+    <rect x="702" y="59" width="210" height="13" fill="#0a1f19"/>
+    <rect x="702" y="59" width="135" height="13" fill="#00b37d"/>
+    <text x="916" y="70" fill="#8b949e">]</text><text x="928" y="70" fill="#c9d1d9">5.2G</text>
+
+    <text x="660" y="92" fill="#00FFB3" font-weight="700">Swp</text><text x="692" y="92" fill="#8b949e">[</text>
+    <rect x="702" y="81" width="210" height="13" fill="#0a1f19"/>
+    <rect x="702" y="81" width="18" height="13" fill="#00805a"/>
+    <text x="916" y="92" fill="#8b949e">]</text><text x="928" y="92" fill="#c9d1d9">0.1G</text>
+  </g>
+
+  <g font-size="13" fill="#c9d1d9">
+    <text x="24" y="118"><tspan fill="#00FFB3">Tasks:</tspan> 5 proyectos, 1 café en curso   <tspan fill="#00FFB3">Load average:</tspan> 0.42 0.38 0.35   <tspan fill="#00FFB3">Uptime:</tspan> desde el primer "hola mundo"</text>
+  </g>
+
+  <!-- cabecera tabla -->
+  <rect x="16" y="132" width="968" height="22" fill="#00FFB3"/>
+  <g font-size="13" fill="#0d1117" font-weight="700">
+    <text x="24" y="148">PID</text><text x="84" y="148">USER</text><text x="166" y="148">CPU%</text><text x="236" y="148">MEM%</text><text x="306" y="148">TIME+</text><text x="400" y="148">Command</text>
+  </g>
+
+  <!-- procesos -->
+  <g font-size="13">
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.2s" begin="0.3s" fill="freeze"/>
+      <text x="24" y="178" fill="#c9d1d9">1001</text><text x="84" y="178" fill="#00FFB3">manuel</text><text x="166" y="178" fill="#ff5f57">42.0</text><text x="236" y="178" fill="#c9d1d9">18.4</text><text x="306" y="178" fill="#c9d1d9">1:24:07</text>
+      <text x="400" y="178"><tspan fill="#00FFB3">next dev</tspan><tspan fill="#c9d1d9"> — Nails Express · reservas online sin cruce de horarios</tspan></text></g>
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.2s" begin="0.6s" fill="freeze"/>
+      <text x="24" y="202" fill="#c9d1d9">1002</text><text x="84" y="202" fill="#00FFB3">manuel</text><text x="166" y="202" fill="#febc2e">31.5</text><text x="236" y="202" fill="#c9d1d9">12.1</text><text x="306" y="202" fill="#c9d1d9">0:58:33</text>
+      <text x="400" y="202"><tspan fill="#00FFB3">node tools/server.js</tspan><tspan fill="#c9d1d9"> — Retequeños OS · pedidos + KDS cocina</tspan></text></g>
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.2s" begin="0.9s" fill="freeze"/>
+      <text x="24" y="226" fill="#c9d1d9">1003</text><text x="84" y="226" fill="#00FFB3">manuel</text><text x="166" y="226" fill="#febc2e">18.2</text><text x="236" y="226" fill="#c9d1d9">22.7</text><text x="306" y="226" fill="#c9d1d9">0:41:12</text>
+      <text x="400" y="226"><tspan fill="#00FFB3">java -jar importease.jar</tspan><tspan fill="#c9d1d9"> — ImportEase · plataforma de comercio</tspan></text></g>
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.2s" begin="1.2s" fill="freeze"/>
+      <text x="24" y="250" fill="#c9d1d9">1004</text><text x="84" y="250" fill="#00FFB3">manuel</text><text x="166" y="250" fill="#00FFB3">7.1</text><text x="236" y="250" fill="#c9d1d9">3.2</text><text x="306" y="250" fill="#c9d1d9">0:12:45</text>
+      <text x="400" y="250"><tspan fill="#00FFB3">python3 automatizar_reportes.py</tspan><tspan fill="#c9d1d9"> — scripts que me ahorran horas</tspan></text></g>
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.2s" begin="1.5s" fill="freeze"/>
+      <text x="24" y="274" fill="#c9d1d9">1005</text><text x="84" y="274" fill="#00FFB3">manuel</text><text x="166" y="274" fill="#00FFB3">0.3</text><text x="236" y="274" fill="#c9d1d9">0.4</text><text x="306" y="274" fill="#c9d1d9">0:00:02</text>
+      <text x="400" y="274"><tspan fill="#00FFB3">bash</tspan><tspan fill="#c9d1d9"> — aprendiendo Linux a fondo</tspan></text></g>
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.2s" begin="1.8s" fill="freeze"/>
+      <text x="24" y="298" fill="#c9d1d9">1006</text><text x="84" y="298" fill="#00FFB3">manuel</text><text x="166" y="298" fill="#00FFB3">0.0</text><text x="236" y="298" fill="#c9d1d9">0.1</text><text x="306" y="298" fill="#c9d1d9">∞</text>
+      <text x="400" y="298"><tspan fill="#00FFB3">cafe --refill</tspan><tspan fill="#c9d1d9"> — proceso crítico, no matar</tspan></text></g>
+  </g>
+
+  <!-- fila seleccionada (barrido) -->
+  <rect x="16" y="166" width="968" height="18" fill="#00FFB3" opacity="0.12">
+    <animate attributeName="y" values="166;190;214;238;262;286;262;238;214;190;166" dur="11s" begin="2.2s" repeatCount="indefinite" calcMode="discrete"/>
+  </rect>
+
+  <!-- pie -->
+  <g font-size="12" fill="#8b949e">
+    <text x="24" y="336">Procesos reales de mi portafolio · los porcentajes son un guiño, el trabajo es real.</text>
+  </g>
+  <g font-size="12">
+    <rect x="16" y="382" width="968" height="22" fill="#0a1f19"/>
+    <text x="24" y="398"><tspan fill="#c9d1d9">F1</tspan><tspan fill="#00FFB3">Help  </tspan><tspan fill="#c9d1d9">F2</tspan><tspan fill="#00FFB3">Setup  </tspan><tspan fill="#c9d1d9">F3</tspan><tspan fill="#00FFB3">Search  </tspan><tspan fill="#c9d1d9">F5</tspan><tspan fill="#00FFB3">Tree  </tspan><tspan fill="#c9d1d9">F6</tspan><tspan fill="#00FFB3">SortBy  </tspan><tspan fill="#c9d1d9">F9</tspan><tspan fill="#00FFB3">Kill  </tspan><tspan fill="#c9d1d9">F10</tspan><tspan fill="#00FFB3">Quit</tspan></text>
+  </g>
+</svg>

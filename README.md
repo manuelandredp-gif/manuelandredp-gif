@@ -3,7 +3,7 @@
 <!-- ═══════════════════ HEADER ═══════════════════ -->
 <img src="./assets/header.svg" width="100%" alt="Manuel Dongo"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=800&color=00FFB3&background=0D1117&center=true&vCenter=true&width=1000&height=70&lines=%3E+Estudiante+de+Ingenier%C3%ADa+de+Sistemas+%7C+%C3%BAltimos+ciclos;%3E+Construyo+aplicativos+y+landing+pages+para+empresas+reales;%3E+Python+es+mi+lenguaje+favorito+desde+el+primer+d%C3%ADa;%3E+Explorando+Linux%3A+terminal%2C+bash+y+servidores;%3E+Si+lo+haces+dos+veces%2C+escribe+un+script" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=800&color=00FFB3&background=0D1117&center=true&vCenter=true&width=1000&height=70&lines=%3E+Estudiante+de+Ingenier%C3%ADa+de+Sistemas+%7C+%C3%BAltimos+ciclos;%3E+Construyo+apps+web+y+sistemas+para+negocios+reales;%3E+Nails+Express+en+producci%C3%B3n%3A+reservas+sin+cruce+de+horarios;%3E+Next.js+%C2%B7+Spring+Boot+%C2%B7+Node+%C2%B7+Python+%C2%B7+SQL;%3E+Si+lo+haces+dos+veces%2C+escribe+un+script" alt="typing"/>
 
 <br/>
 
@@ -25,6 +25,10 @@
 <!-- ═══════════════════ TERMINAL ═══════════════════ -->
 <div align="center">
 <img src="./assets/terminal.svg" width="100%" alt="terminal"/>
+
+<br/><br/>
+
+<img src="./assets/htop.svg" width="100%" alt="htop — lo que corre en mi máquina"/>
 </div>
 
 <img src="./assets/divider.svg" width="100%"/>
@@ -189,6 +193,10 @@ exit 0
 </tr>
 </table>
 
+<br/>
+
+<img src="./assets/skills-bars.svg" width="96%" alt="nivel actual por tecnología"/>
+
 </div>
 
 <img src="./assets/divider.svg" width="100%"/>
@@ -198,36 +206,126 @@ exit 0
 
 ## 🚀 Lo que construyo
 
-</div>
+Sistemas reales, para negocios reales de Tacna. No son ejercicios: tienen usuarios, pedidos y citas de verdad.
+
+<br/>
+
+<table border="0">
+<tr>
+<td align="center" valign="middle" width="34%">
+
+<img src="./assets/mockup-phone.svg" width="250" alt="Nails Express — reserva en 4 pasos"/>
+
+<sub><b>Nails Express</b> · flujo de reserva en tiempo real</sub>
+
+</td>
+<td align="center" valign="middle" width="66%">
+
+<img src="./assets/mockup-laptop.svg" width="100%" alt="Retequeños OS — monitor de cocina KDS"/>
+
+<sub><b>Retequeños OS</b> · monitor KDS de cocina + hub administrativo</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table border="0" width="100%">
+<tr>
+<td width="33%" valign="top">
+
+<a href="https://github.com/manuelandredp-gif/Nails-Express"><img src="https://github-readme-stats.vercel.app/api/pin/?username=manuelandredp-gif&repo=Nails-Express&bg_color=0D1117&title_color=00FFB3&text_color=FFFFFF&icon_color=00FFB3&border_color=00FFB3&border_radius=12&description_lines_count=2" width="100%"/></a>
+
+<img src="https://img.shields.io/badge/🟢_EN_PRODUCCIÓN-0D1117?style=flat-square&labelColor=0D1117&color=00FFB3"/>
+<img src="https://img.shields.io/badge/Next.js_14-0D1117?style=flat-square&logo=nextdotjs&logoColor=00FFB3"/>
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=00FFB3"/>
+<img src="https://img.shields.io/badge/Prisma-0D1117?style=flat-square&logo=prisma&logoColor=00FFB3"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00FFB3"/>
+<img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=00FFB3"/>
+
+**Web de reservas + panel admin** para un estudio de uñas.
+
+- Motor de citas con **cero cruce de horarios** (transacciones + restricción `btree_gist` en BD)
+- Horarios libres en tiempo real, confirmación `.ics` / Google Calendar
+- Calendario admin drag-and-drop, SEO con JSON-LD y sitemap
+
+<a href="https://nails-express.vercel.app"><img src="https://img.shields.io/badge/▶_VER_DEMO-0D1117?style=for-the-badge&logo=vercel&logoColor=00FFB3&labelColor=0D1117&color=00FFB3"/></a>
+
+</td>
+<td width="33%" valign="top">
+
+<a href="https://github.com/manuelandredp-gif/RETEQUE-OS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=manuelandredp-gif&repo=RETEQUE-OS&bg_color=0D1117&title_color=00FFB3&text_color=FFFFFF&icon_color=00FFB3&border_color=00FFB3&border_radius=12&description_lines_count=2" width="100%"/></a>
+
+<img src="https://img.shields.io/badge/✅_ENTREGADO-0D1117?style=flat-square&labelColor=0D1117&color=00FFB3"/>
+<img src="https://img.shields.io/badge/React_18-0D1117?style=flat-square&logo=react&logoColor=00FFB3"/>
+<img src="https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=00FFB3"/>
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=00FFB3"/>
+<img src="https://img.shields.io/badge/Zustand-0D1117?style=flat-square&logo=react&logoColor=00FFB3"/>
+
+**Ecosistema digital** para una tequeñería: web de pedidos por WhatsApp, app móvil y hub operativo.
+
+- Monitor **KDS de cocina** en tiempo real con API REST propia
+- Persistencia atómica en disco, precios calculados en servidor
+- Auditoría de seguridad: PII enmascarada, anti-XSS, **21 pruebas E2E**
+
+<a href="https://github.com/manuelandredp-gif/RETEQUE-OS"><img src="https://img.shields.io/badge/📂_VER_REPO-0D1117?style=for-the-badge&logo=github&logoColor=00FFB3&labelColor=0D1117&color=00FFB3"/></a>
+
+</td>
+<td width="33%" valign="top">
+
+<a href="https://github.com/manuelandredp-gif/ASAS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=manuelandredp-gif&repo=ASAS&bg_color=0D1117&title_color=00FFB3&text_color=FFFFFF&icon_color=00FFB3&border_color=00FFB3&border_radius=12&description_lines_count=2" width="100%"/></a>
+
+<img src="https://img.shields.io/badge/✅_ENTREGADO-0D1117?style=flat-square&labelColor=0D1117&color=00FFB3"/>
+<img src="https://img.shields.io/badge/Java_17-0D1117?style=flat-square&logo=openjdk&logoColor=00FFB3"/>
+<img src="https://img.shields.io/badge/Spring_Boot-0D1117?style=flat-square&logo=springboot&logoColor=00FFB3"/>
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=00FFB3"/>
+<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00FFB3"/>
+
+**ImportEase** — plataforma de gestión comercial con backend Spring Boot y cliente de escritorio admin.
+
+- API REST con JPA + validación, contraseñas con BCrypt
+- Reportes en **PDF y Excel** (OpenPDF, Apache POI), correo transaccional
+- Dockerizado y desplegable en Railway
+
+<a href="https://github.com/manuelandredp-gif/ASAS"><img src="https://img.shields.io/badge/📂_VER_REPO-0D1117?style=for-the-badge&logo=github&logoColor=00FFB3&labelColor=0D1117&color=00FFB3"/></a>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ```yaml
-# Tipo de trabajo que entrego hoy a empresas y emprendimientos
-proyectos:
-  - tipo: Aplicativo web de pedidos y delivery
-    stack: [React, Node.js, MySQL]
-    incluye: [app para clientes, panel de administración, seguimiento de pedidos]
-
-  - tipo: Sistema de reservas y citas
-    stack: [Python, Flask, PostgreSQL]
-    incluye: [agenda, recordatorios automáticos, panel admin]
-
-  - tipo: Landing pages de alta conversión
-    stack: [HTML, CSS, JavaScript]
-    incluye: [diseño responsive, formularios integrados, SEO básico, carga rápida]
-
-  - tipo: Automatizaciones en Python
-    stack: [Python, Bash, cron]
-    incluye: [reportes automáticos, scraping, integraciones por API]
-
 principios:
   - "Código limpio antes que código rápido"
   - "Si no se puede medir, no está terminado"
   - "Documentar es parte de programar"
+  - "Seguridad desde el primer commit, no al final"
 ```
 
+</div>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<!-- ═══════════════════ CERTIFICACIONES ═══════════════════ -->
 <div align="center">
 
-<img src="https://img.shields.io/badge/📦_Repos_fijados_abajo-0D1117?style=for-the-badge&labelColor=0D1117&color=00FFB3"/>
+## 🎓 Certificaciones
+
+<img src="https://img.shields.io/badge/Anthropic_Education-7_×_Certificate_of_Completion_·_2026-0D1117?style=for-the-badge&logo=anthropic&logoColor=00FFB3&labelColor=0D1117&color=00FFB3"/>
+
+<br/><br/>
+
+<a href="./certificados/anthropic-education-cert-01.pdf"><img src="https://img.shields.io/badge/📜_Certificado-01-0D1117?style=flat-square&labelColor=0D1117&color=00FFB3"/></a>
+<a href="./certificados/anthropic-education-cert-02.pdf"><img src="https://img.shields.io/badge/📜_Certificado-02-0D1117?style=flat-square&labelColor=0D1117&color=00FFB3"/></a>
+<a href="./certificados/anthropic-education-cert-03.pdf"><img src="https://img.shields.io/badge/📜_Certificado-03-0D1117?style=flat-square&labelColor=0D1117&color=00FFB3"/></a>
+<a href="./certificados/anthropic-education-cert-04.pdf"><img src="https://img.shields.io/badge/📜_Certificado-04-0D1117?style=flat-square&labelColor=0D1117&color=00FFB3"/></a>
+<a href="./certificados/anthropic-education-cert-05.pdf"><img src="https://img.shields.io/badge/📜_Certificado-05-0D1117?style=flat-square&labelColor=0D1117&color=00FFB3"/></a>
+<a href="./certificados/anthropic-education-cert-06.pdf"><img src="https://img.shields.io/badge/📜_Certificado-06-0D1117?style=flat-square&labelColor=0D1117&color=00FFB3"/></a>
+<a href="./certificados/anthropic-education-cert-07.pdf"><img src="https://img.shields.io/badge/📜_Certificado-07-0D1117?style=flat-square&labelColor=0D1117&color=00FFB3"/></a>
+
+<sub>Haz clic en cualquiera para abrir el PDF original.</sub>
 
 </div>
 
@@ -280,22 +378,29 @@ principios:
 <!-- ═══════════════════ CONTACTO ═══════════════════ -->
 <div align="center">
 
-## 🌐 Contacto
+## 🌐 ¿Tienes una idea? Hablemos.
+
+Respondo rápido. Si tienes un negocio y necesitas una web, un sistema de reservas o pedidos, o automatizar algo que hoy haces a mano, escríbeme.
 
 ```javascript
 const contacto = {
-  linkedin : "linkedin.com/in/manuelandredp-gif",
+  whatsapp : "+51 906 648 502",
+  email    : "manuelandredp@gmail.com",
+  linkedin : "linkedin.com/in/manuel-andree-dongo-palza-1b3234330",
   github   : "github.com/manuelandredp-gif",
-  email    : "tu-correo@gmail.com",
   ubicacion: "Tacna, Perú 🇵🇪",
-  abiertoA : ["proyectos freelance", "colaboraciones", "un buen café ☕"],
+  abiertoA : ["proyectos freelance", "prácticas / trainee", "colaboraciones"],
 };
 ```
 
-<a href="https://linkedin.com/in/manuelandredp-gif"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFB3"/></a>
+<a href="https://wa.me/51906648502?text=Hola%20Manuel%2C%20vi%20tu%20perfil%20en%20GitHub%20y%20quiero%20conversar%20sobre%20un%20proyecto"><img src="https://img.shields.io/badge/💬_ESCRÍBEME_POR_WHATSAPP-0D1117?style=for-the-badge&logo=whatsapp&logoColor=0D1117&labelColor=00FFB3&color=00FFB3" height="40"/></a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/manuel-andree-dongo-palza-1b3234330"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFB3"/></a>
 <a href="https://github.com/manuelandredp-gif"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FFB3"/></a>
-<a href="mailto:tu-correo@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FFB3"/></a>
-<a href="https://wa.me/51999999999"><img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=00FFB3"/></a>
+<a href="mailto:manuelandredp@gmail.com?subject=Proyecto%20desde%20GitHub"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FFB3"/></a>
+<a href="https://wa.me/51906648502"><img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=00FFB3"/></a>
 
 <br/><br/>
 

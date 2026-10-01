@@ -61,7 +61,21 @@
   <g filter="url(#glowSoft)">
     <text x="500" y="178" text-anchor="middle" font-size="62" font-weight="700" fill="#00FFB3" fill-opacity="0.35">MANUEL DONGO</text>
   </g>
+
+  <!-- glitch: separacion RGB cada ~8s -->
+  <g font-size="62" font-weight="700" text-anchor="middle" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.85;0;0.7;0;0.5;0;0" keyTimes="0;0.86;0.87;0.885;0.9;0.915;0.93;0.945;1" dur="8s" begin="2s" repeatCount="indefinite"/>
+    <text x="500" y="178" fill="#ff5f57" style="mix-blend-mode:screen">MANUEL DONGO
+      <animate attributeName="x" values="500;500;492;500;508;500;494;500;500" keyTimes="0;0.86;0.87;0.885;0.9;0.915;0.93;0.945;1" dur="8s" begin="2s" repeatCount="indefinite"/>
+    </text>
+    <text x="500" y="178" fill="#5ea0ff" style="mix-blend-mode:screen">MANUEL DONGO
+      <animate attributeName="x" values="500;500;508;500;492;500;506;500;500" keyTimes="0;0.86;0.87;0.885;0.9;0.915;0.93;0.945;1" dur="8s" begin="2s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
   <g filter="url(#glow)">
+    <!-- flicker neon sincronizado con el glitch -->
+    <animate attributeName="opacity" values="1;1;0.25;1;0.6;1;0.35;1;1" keyTimes="0;0.86;0.87;0.885;0.9;0.915;0.93;0.945;1" dur="8s" begin="2s" repeatCount="indefinite"/>
     <text x="500" y="178" text-anchor="middle" font-size="62" font-weight="700" fill="#00FFB3">MANUEL DONGO
       <animate attributeName="fill-opacity" values="0;1" dur="0.9s" begin="0.8s" fill="freeze"/>
     </text>
