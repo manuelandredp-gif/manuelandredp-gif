@@ -1,0 +1,11 @@
+{
+  "type": "normal",
+  "fileName": "neon.svg",
+  "backgroundColor": "#000000",
+  "foregroundColor": "#c9d1d9",
+  "strongColor": "#00FFB3",
+  "weakColor": "#2a2f35",
+  "radarColor": "#00FFB3",
+  "growingAnimation": true,
+  "contribColors": ["#0d1117", "#00402d", "#00805a", "#00bf86", "#00FFB3"]
+}

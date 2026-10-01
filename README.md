@@ -12,6 +12,12 @@
 <a href="#-stats"><img src="https://img.shields.io/badge/STATS-000000?style=for-the-badge&logo=githubsponsors&logoColor=00FFB3"/></a>
 <a href="#-contacto"><img src="https://img.shields.io/badge/CONTACTO-000000?style=for-the-badge&logo=minutemailer&logoColor=00FFB3"/></a>
 
+<br/><br/>
+
+<a href="https://github.com/manuelandredp-gif?tab=followers"><img src="https://img.shields.io/github/followers/manuelandredp-gif?style=for-the-badge&logo=github&logoColor=00FFB3&labelColor=000000&color=00FFB3&label=SEGUIR"/></a>
+<a href="https://github.com/manuelandredp-gif?tab=repositories"><img src="https://img.shields.io/github/stars/manuelandredp-gif?style=for-the-badge&logo=github&logoColor=00FFB3&labelColor=000000&color=00FFB3&label=STARS"/></a>
+<img src="https://komarev.com/ghpvc/?username=manuelandredp-gif&style=for-the-badge&color=00FFB3&labelColor=000000&label=VISITAS"/>
+
 </div>
 
 <img src="./assets/divider.svg" width="100%"/>
@@ -238,7 +244,11 @@ principios:
 <br/><br/>
 
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelandredp-gif&layout=donut-vertical&bg_color=000000&title_color=00FFB3&text_color=FFFFFF&border_color=00FFB3&border_radius=12"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/wakatime?username=manuelandredp-gif&layout=compact&bg_color=000000&title_color=00FFB3&text_color=FFFFFF&border_color=00FFB3&border_radius=12&langs_count=6"/>
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manuelandredp-gif&theme=github_dark"/>
+
+<br/><br/>
+
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manuelandredp-gif&theme=github_dark"/>
 
 <br/><br/>
 
@@ -286,10 +296,6 @@ const contacto = {
 <a href="https://github.com/manuelandredp-gif"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FFB3"/></a>
 <a href="mailto:tu-correo@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FFB3"/></a>
 <a href="https://wa.me/51999999999"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=00FFB3"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=manuelandredp-gif&style=for-the-badge&color=00FFB3&label=VISITAS+AL+PERFIL"/>
 
 <br/><br/>
 
