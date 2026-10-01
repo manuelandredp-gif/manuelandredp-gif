@@ -20,39 +20,36 @@
       <stop offset="0.5" stop-color="#00FFB3" stop-opacity="0.9"/>
       <stop offset="1" stop-color="#00FFB3" stop-opacity="0"/>
     </linearGradient>
+    <clipPath id="clipHeader"><rect width="1000" height="300" rx="18"/></clipPath>
   </defs>
 
   <!-- fondo -->
   <rect width="1000" height="300" rx="18" fill="#0d1117"/>
   <rect width="1000" height="300" rx="18" fill="url(#grid)"/>
+
+  <!-- matrix rain -->
+  <g font-family="monospace" font-size="14" fill="#00FFB3" opacity="0.45" clip-path="url(#clipHeader)">
+    <g transform="translate(24,-120)"><animateTransform attributeName="transform" type="translate" values="24,-120;24,320" dur="5.1s" begin="3.4s" repeatCount="indefinite"/><text y="0" fill-opacity="0.08">&lt;</text><text y="18" fill-opacity="0.17">}</text><text y="36" fill-opacity="0.26">0</text><text y="54" fill-opacity="0.35">}</text><text y="72" fill-opacity="0.44">;</text><text y="90" fill-opacity="1" fill="#7fffd9">;</text></g>
+    <g transform="translate(86,-120)"><animateTransform attributeName="transform" type="translate" values="86,-120;86,320" dur="6.9s" begin="1.5s" repeatCount="indefinite"/><text y="0" fill-opacity="0.08">&gt;</text><text y="18" fill-opacity="0.17">+</text><text y="36" fill-opacity="0.26">+</text><text y="54" fill-opacity="0.35">#</text><text y="72" fill-opacity="0.44">1</text><text y="90" fill-opacity="1" fill="#7fffd9">λ</text></g>
+    <g transform="translate(148,-120)"><animateTransform attributeName="transform" type="translate" values="148,-120;148,320" dur="7.6s" begin="1.8s" repeatCount="indefinite"/><text y="0" fill-opacity="0.08">#</text><text y="18" fill-opacity="0.17">/</text><text y="36" fill-opacity="0.26">+</text><text y="54" fill-opacity="0.35">/</text><text y="72" fill-opacity="0.44">$</text><text y="90" fill-opacity="1" fill="#7fffd9">/</text></g>
+    <g transform="translate(210,-120)"><animateTransform attributeName="transform" type="translate" values="210,-120;210,320" dur="5.4s" begin="3.3s" repeatCount="indefinite"/><text y="0" fill-opacity="0.08">1</text><text y="18" fill-opacity="0.17">&lt;</text><text y="36" fill-opacity="0.26">#</text><text y="54" fill-opacity="0.35">&gt;</text><text y="72" fill-opacity="0.44">#</text><text y="90" fill-opacity="0.53">=</text><text y="108" fill-opacity="0.62">/</text><text y="126" fill-opacity="1" fill="#7fffd9">;</text></g>
+    <g transform="translate(272,-120)"><animateTransform attributeName="transform" type="translate" values="272,-120;272,320" dur="4.7s" begin="3.0s" repeatCount="indefinite"/><text y="0" fill-opacity="0.08">=</text><text y="18" fill-opacity="0.17">$</text><text y="36" fill-opacity="0.26">*</text><text y="54" fill-opacity="0.35">/</text><text y="72" fill-opacity="0.44">$</text><text y="90" fill-opacity="0.53">+</text><text y="108" fill-opacity="0.62">0</text><text y="126" fill-opacity="1" fill="#7fffd9">#</text></g>
+    <g transform="translate(334,-120)"><animateTransform attributeName="transform" type="translate" values="334,-120;334,320" dur="7.0s" begin="0.7s" repeatCount="indefinite"/><text y="0" fill-opacity="0.08">;</text><text y="18" fill-opacity="0.17">/</text><text y="36" fill-opacity="0.26">*</text><text y="54" fill-opacity="0.35">&lt;</text><text y="72" fill-opacity="0.44">=</text><text y="90" fill-opacity="0.53">+</text><text y="108" fill-opacity="1" fill="#7fffd9">=</text></g>
+    <g transform="translate(396,-120)"><animateTransform attributeName="transform" type="translate" values="396,-120;396,320" dur="5.5s" begin="0.5s" repeatCount="indefinite"/><text y="0" fill-opacity="0.08">+</text><text y="18" fill-opacity="0.17">=</text><text y="36" fill-opacity="0.26">#</text><text y="54" fill-opacity="0.35">+</text><text y="72" fill-opacity="1" fill="#7fffd9">{</text></g>
+    <g transform="translate(458,-120)"><animateTransform attributeName="transform" type="translate" values="458,-120;458,320" dur="6.1s" begin="1.5s" repeatCount="indefinite"/><text y="0" fill-opacity="0.08">$</text><text y="18" fill-opacity="0.17">#</text><text y="36" fill-opacity="0.26">;</text><text y="54" fill-opacity="0.35">{</text><text y="72" fill-opacity="0.44">{</text><text y="90" fill-opacity="0.53">+</text><text y="108" fill-opacity="1" fill="#7fffd9">}</text></g>
+    <g transform="translate(520,-120)"><animateTransform attributeName="transform" type="translate" values="520,-120;520,320" dur="8.0s" begin="2.2s" repeatCount="indefinite"/><text y="0" fill-opacity="0.08">0</text><text y="18" fill-opacity="0.17">λ</text><text y="36" fill-opacity="0.26">;</text><text y="54" fill-opacity="0.35">{</text><text y="72" fill-opacity="1" fill="#7fffd9">}</text></g>
+    <g transform="translate(582,-120)"><animateTransform attributeName="transform" type="translate" values="582,-120;582,320" dur="4.5s" begin="1.7s" repeatCount="indefinite"/><text y="0" fill-opacity="0.08">&gt;</text><text y="18" fill-opacity="0.17">&lt;</text><text y="36" fill-opacity="0.26">=</text><text y="54" fill-opacity="0.35">;</text><text y="72" fill-opacity="0.44">/</text><text y="90" fill-opacity="0.53">#</text><text y="108" fill-opacity="0.62">/</text><text y="126" fill-opacity="1" fill="#7fffd9">{</text></g>
+    <g transform="translate(644,-120)"><animateTransform attributeName="transform" type="translate" values="644,-120;644,320" dur="7.9s" begin="1.3s" repeatCount="indefinite"/><text y="0" fill-opacity="0.08">{</text><text y="18" fill-opacity="0.17">*</text><text y="36" fill-opacity="0.26">&gt;</text><text y="54" fill-opacity="0.35">}</text><text y="72" fill-opacity="1" fill="#7fffd9">$</text></g>
+    <g transform="translate(706,-120)"><animateTransform attributeName="transform" type="translate" values="706,-120;706,320" dur="4.9s" begin="2.9s" repeatCount="indefinite"/><text y="0" fill-opacity="0.08">+</text><text y="18" fill-opacity="0.17">0</text><text y="36" fill-opacity="0.26">$</text><text y="54" fill-opacity="0.35">+</text><text y="72" fill-opacity="0.44">λ</text><text y="90" fill-opacity="0.53">#</text><text y="108" fill-opacity="0.62">&gt;</text><text y="126" fill-opacity="1" fill="#7fffd9">&lt;</text></g>
+    <g transform="translate(768,-120)"><animateTransform attributeName="transform" type="translate" values="768,-120;768,320" dur="8.3s" begin="0.3s" repeatCount="indefinite"/><text y="0" fill-opacity="0.08">=</text><text y="18" fill-opacity="0.17">&gt;</text><text y="36" fill-opacity="0.26">λ</text><text y="54" fill-opacity="0.35">1</text><text y="72" fill-opacity="0.44">/</text><text y="90" fill-opacity="0.53">λ</text><text y="108" fill-opacity="0.62">#</text><text y="126" fill-opacity="1" fill="#7fffd9">#</text></g>
+    <g transform="translate(830,-120)"><animateTransform attributeName="transform" type="translate" values="830,-120;830,320" dur="6.6s" begin="2.9s" repeatCount="indefinite"/><text y="0" fill-opacity="0.08">{</text><text y="18" fill-opacity="0.17">0</text><text y="36" fill-opacity="0.26">λ</text><text y="54" fill-opacity="0.35">;</text><text y="72" fill-opacity="0.44">+</text><text y="90" fill-opacity="1" fill="#7fffd9">{</text></g>
+    <g transform="translate(892,-120)"><animateTransform attributeName="transform" type="translate" values="892,-120;892,320" dur="6.6s" begin="1.8s" repeatCount="indefinite"/><text y="0" fill-opacity="0.08">}</text><text y="18" fill-opacity="0.17">#</text><text y="36" fill-opacity="0.26">+</text><text y="54" fill-opacity="0.35">$</text><text y="72" fill-opacity="1" fill="#7fffd9">$</text></g>
+    <g transform="translate(954,-120)"><animateTransform attributeName="transform" type="translate" values="954,-120;954,320" dur="5.9s" begin="0.8s" repeatCount="indefinite"/><text y="0" fill-opacity="0.08">0</text><text y="18" fill-opacity="0.17">{</text><text y="36" fill-opacity="0.26">+</text><text y="54" fill-opacity="0.35">*</text><text y="72" fill-opacity="0.44">0</text><text y="90" fill-opacity="0.53">;</text><text y="108" fill-opacity="1" fill="#7fffd9">$</text></g>
+  </g>
+
   <rect width="1000" height="120" fill="url(#fade)"/>
   <rect x="1" y="1" width="998" height="298" rx="18" fill="none" stroke="#00FFB3" stroke-width="2" stroke-opacity="0.9"/>
 
-  <!-- tokens de código flotando -->
-  <g font-size="14" fill="#00FFB3" fill-opacity="0.35">
-    <text x="60" y="60">def build():
-      <animate attributeName="y" values="60;40;60" dur="6s" repeatCount="indefinite"/>
-      <animate attributeName="fill-opacity" values="0.15;0.45;0.15" dur="6s" repeatCount="indefinite"/>
-    </text>
-    <text x="820" y="80">sudo apt update
-      <animate attributeName="y" values="80;100;80" dur="7s" repeatCount="indefinite"/>
-      <animate attributeName="fill-opacity" values="0.4;0.1;0.4" dur="7s" repeatCount="indefinite"/>
-    </text>
-    <text x="120" y="250">git push origin main
-      <animate attributeName="y" values="250;235;250" dur="8s" repeatCount="indefinite"/>
-      <animate attributeName="fill-opacity" values="0.2;0.45;0.2" dur="8s" repeatCount="indefinite"/>
-    </text>
-    <text x="760" y="240">npm run build
-      <animate attributeName="y" values="240;258;240" dur="6.5s" repeatCount="indefinite"/>
-      <animate attributeName="fill-opacity" values="0.4;0.15;0.4" dur="6.5s" repeatCount="indefinite"/>
-    </text>
-    <text x="440" y="45">import this
-      <animate attributeName="fill-opacity" values="0.1;0.4;0.1" dur="5s" repeatCount="indefinite"/>
-    </text>
-    <text x="30" y="150">~$ ls -la
-      <animate attributeName="fill-opacity" values="0.35;0.1;0.35" dur="5.5s" repeatCount="indefinite"/>
-    </text>
-  </g>
 
   <!-- prompt -->
   <text x="500" y="112" text-anchor="middle" font-size="18" fill="#00FFB3" fill-opacity="0.8">

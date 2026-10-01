@@ -252,28 +252,28 @@ principios:
 
 <br/><br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=manuelandredp-gif&bg_color=0D1117&color=00FFB3&line=00FFB3&point=FFFFFF&area=true&area_color=00FFB3&border_color=00FFB3&radius=12&title_color=00FFB3&custom_title=Actividad%20de%20commits"/>
-
-<br/><br/>
-
-<img width="96%" src="./profile-3d-contrib/neon.svg" alt="3D contributions"/>
-
-<br/><br/>
-
 <img src="https://github-profile-trophy.vercel.app/?username=manuelandredp-gif&theme=matrix&no-frame=true&no-bg=true&column=8&margin-w=6&margin-h=6"/>
 
 </div>
 
 <img src="./assets/divider.svg" width="100%"/>
 
-<!-- ═══════════════════ SNAKE ═══════════════════ -->
+<!-- ═══════════════════ CONTRIBUCIONES ═══════════════════ -->
 <div align="center">
 
-## 🐍 Contribuciones
+## 🟩 Mapa de contribuciones
 
-<img src="https://raw.githubusercontent.com/manuelandredp-gif/manuelandredp-gif/output/github-snake-dark.svg" width="100%" alt="snake"/>
+<img src="./assets/contrib-grid.svg" width="96%" alt="contribuciones"/>
 
 </div>
+
+<!--
+  NOTA: cuando habilites GitHub Actions (pestaña Actions -> Enable -> Run workflow),
+  se generan el snake y el grafico 3D. Para mostrarlos, descomenta estas lineas:
+
+  <img src="https://raw.githubusercontent.com/manuelandredp-gif/manuelandredp-gif/output/github-snake-dark.svg" width="100%" alt="snake"/>
+  <img width="96%" src="./profile-3d-contrib/neon.svg" alt="3D contributions"/>
+-->
 
 <img src="./assets/divider.svg" width="100%"/>
 
