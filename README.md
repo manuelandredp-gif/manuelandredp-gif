@@ -3,20 +3,20 @@
 <!-- ═══════════════════ HEADER ═══════════════════ -->
 <img src="./assets/header.svg" width="100%" alt="Manuel Dongo"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=800&color=00FFB3&background=000000&center=true&vCenter=true&width=1000&height=70&lines=%3E+Estudiante+de+Ingenier%C3%ADa+de+Sistemas+%7C+%C3%BAltimos+ciclos;%3E+Construyo+aplicativos+y+landing+pages+para+empresas+reales;%3E+Python+es+mi+lenguaje+favorito+desde+el+primer+d%C3%ADa;%3E+Explorando+Linux%3A+terminal%2C+bash+y+servidores;%3E+Si+lo+haces+dos+veces%2C+escribe+un+script" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=800&color=00FFB3&background=0D1117&center=true&vCenter=true&width=1000&height=70&lines=%3E+Estudiante+de+Ingenier%C3%ADa+de+Sistemas+%7C+%C3%BAltimos+ciclos;%3E+Construyo+aplicativos+y+landing+pages+para+empresas+reales;%3E+Python+es+mi+lenguaje+favorito+desde+el+primer+d%C3%ADa;%3E+Explorando+Linux%3A+terminal%2C+bash+y+servidores;%3E+Si+lo+haces+dos+veces%2C+escribe+un+script" alt="typing"/>
 
 <br/>
 
-<a href="#-stack"><img src="https://img.shields.io/badge/STACK-000000?style=for-the-badge&logoColor=00FFB3&color=000000&labelColor=000000&logo=stackshare"/></a>
-<a href="#-lo-que-construyo"><img src="https://img.shields.io/badge/PROYECTOS-000000?style=for-the-badge&logo=rocket&logoColor=00FFB3"/></a>
-<a href="#-stats"><img src="https://img.shields.io/badge/STATS-000000?style=for-the-badge&logo=githubsponsors&logoColor=00FFB3"/></a>
-<a href="#-contacto"><img src="https://img.shields.io/badge/CONTACTO-000000?style=for-the-badge&logo=minutemailer&logoColor=00FFB3"/></a>
+<a href="#-stack"><img src="https://img.shields.io/badge/STACK-0D1117?style=for-the-badge&logoColor=00FFB3&color=0D1117&labelColor=0D1117&logo=stackshare"/></a>
+<a href="#-lo-que-construyo"><img src="https://img.shields.io/badge/PROYECTOS-0D1117?style=for-the-badge&logo=rocket&logoColor=00FFB3"/></a>
+<a href="#-stats"><img src="https://img.shields.io/badge/STATS-0D1117?style=for-the-badge&logo=githubsponsors&logoColor=00FFB3"/></a>
+<a href="#-contacto"><img src="https://img.shields.io/badge/CONTACTO-0D1117?style=for-the-badge&logo=minutemailer&logoColor=00FFB3"/></a>
 
 <br/><br/>
 
-<a href="https://github.com/manuelandredp-gif?tab=followers"><img src="https://img.shields.io/github/followers/manuelandredp-gif?style=for-the-badge&logo=github&logoColor=00FFB3&labelColor=000000&color=00FFB3&label=SEGUIR"/></a>
-<a href="https://github.com/manuelandredp-gif?tab=repositories"><img src="https://img.shields.io/github/stars/manuelandredp-gif?style=for-the-badge&logo=github&logoColor=00FFB3&labelColor=000000&color=00FFB3&label=STARS"/></a>
-<img src="https://komarev.com/ghpvc/?username=manuelandredp-gif&style=for-the-badge&color=00FFB3&labelColor=000000&label=VISITAS"/>
+<a href="https://github.com/manuelandredp-gif?tab=followers"><img src="https://img.shields.io/github/followers/manuelandredp-gif?style=for-the-badge&logo=github&logoColor=00FFB3&labelColor=0D1117&color=00FFB3&label=SEGUIR"/></a>
+<a href="https://github.com/manuelandredp-gif?tab=repositories"><img src="https://img.shields.io/github/stars/manuelandredp-gif?style=for-the-badge&logo=github&logoColor=00FFB3&labelColor=0D1117&color=00FFB3&label=STARS"/></a>
+<img src="https://komarev.com/ghpvc/?username=manuelandredp-gif&style=for-the-badge&color=00FFB3&labelColor=0D1117&label=VISITAS"/>
 
 </div>
 
@@ -86,11 +86,11 @@ if __name__ == "__main__":
 
 ```bash
 #!/usr/bin/env bash
-# ──────────────────────────────────────────
-#  Manuel Dongo · perfil en modo terminal
-# ──────────────────────────────────────────
+# ───────────────────────────
+#  Manuel Dongo · modo terminal
+# ───────────────────────────
 
-ROL="Estudiante de Ingeniería de Sistemas"
+ROL="Estudiante de Ing. de Sistemas"
 CICLO="últimos ciclos"
 CIUDAD="Tacna, Perú"
 
@@ -123,9 +123,9 @@ exit 0
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-fan%20desde%20siempre-000000?style=flat-square&logo=python&logoColor=00FFB3&labelColor=000000&color=00FFB3"/>
-<img src="https://img.shields.io/badge/Linux-en%20aprendizaje-000000?style=flat-square&logo=linux&logoColor=00FFB3&labelColor=000000&color=00FFB3"/>
-<img src="https://img.shields.io/badge/Freelance-disponible-000000?style=flat-square&logo=upwork&logoColor=00FFB3&labelColor=000000&color=00FFB3"/>
+<img src="https://img.shields.io/badge/Python-fan%20desde%20siempre-0D1117?style=flat-square&logo=python&logoColor=00FFB3&labelColor=0D1117&color=00FFB3"/>
+<img src="https://img.shields.io/badge/Linux-en%20aprendizaje-0D1117?style=flat-square&logo=linux&logoColor=00FFB3&labelColor=0D1117&color=00FFB3"/>
+<img src="https://img.shields.io/badge/Freelance-disponible-0D1117?style=flat-square&logo=upwork&logoColor=00FFB3&labelColor=0D1117&color=00FFB3"/>
 
 </div>
 
@@ -150,40 +150,40 @@ exit 0
 
 **Lenguajes**
 
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FFB3"/><br/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FFB3"/><br/>
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FFB3"/><br/>
-<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00FFB3"/>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FFB3"/><br/>
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FFB3"/><br/>
+<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00FFB3"/><br/>
+<img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=00FFB3"/>
 
 </td>
 <td align="center" width="25%">
 
 **Frontend**
 
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FFB3"/><br/>
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FFB3"/><br/>
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FFB3"/><br/>
-<img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=00FFB3"/>
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00FFB3"/><br/>
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00FFB3"/><br/>
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00FFB3"/><br/>
+<img src="https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=00FFB3"/>
 
 </td>
 <td align="center" width="25%">
 
 **Backend**
 
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00FFB3"/><br/>
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00FFB3"/><br/>
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FFB3"/><br/>
-<img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=fastapi&logoColor=00FFB3"/>
+<img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=00FFB3"/><br/>
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00FFB3"/><br/>
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00FFB3"/><br/>
+<img src="https://img.shields.io/badge/REST%20API-0D1117?style=for-the-badge&logo=fastapi&logoColor=00FFB3"/>
 
 </td>
 <td align="center" width="25%">
 
 **Ops & Tools**
 
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FFB3"/><br/>
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FFB3"/><br/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FFB3"/><br/>
-<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00FFB3"/>
+<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00FFB3"/><br/>
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00FFB3"/><br/>
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FFB3"/><br/>
+<img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00FFB3"/>
 
 </td>
 </tr>
@@ -227,7 +227,7 @@ principios:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/📦_Repos_fijados_abajo-000000?style=for-the-badge&labelColor=000000&color=00FFB3"/>
+<img src="https://img.shields.io/badge/📦_Repos_fijados_abajo-0D1117?style=for-the-badge&labelColor=0D1117&color=00FFB3"/>
 
 </div>
 
@@ -238,12 +238,12 @@ principios:
 
 ## 📊 Stats
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=manuelandredp-gif&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00FFB3&text_color=FFFFFF&icon_color=00FFB3&border_color=00FFB3&border_radius=12&rank_icon=github"/>
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=manuelandredp-gif&background=000000&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3&sideLabels=00FFB3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border=00FFB3&border_radius=12"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=manuelandredp-gif&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00FFB3&text_color=FFFFFF&icon_color=00FFB3&border_color=00FFB3&border_radius=12&rank_icon=github"/>
+<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=manuelandredp-gif&background=0D1117&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3&sideLabels=00FFB3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border=00FFB3&border_radius=12"/>
 
 <br/><br/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelandredp-gif&layout=donut-vertical&bg_color=000000&title_color=00FFB3&text_color=FFFFFF&border_color=00FFB3&border_radius=12"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelandredp-gif&layout=donut-vertical&bg_color=0D1117&title_color=00FFB3&text_color=FFFFFF&border_color=00FFB3&border_radius=12"/>
 <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manuelandredp-gif&theme=github_dark"/>
 
 <br/><br/>
@@ -252,7 +252,7 @@ principios:
 
 <br/><br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=manuelandredp-gif&bg_color=000000&color=00FFB3&line=00FFB3&point=FFFFFF&area=true&area_color=00FFB3&border_color=00FFB3&radius=12&title_color=00FFB3&custom_title=Actividad%20de%20commits"/>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=manuelandredp-gif&bg_color=0D1117&color=00FFB3&line=00FFB3&point=FFFFFF&area=true&area_color=00FFB3&border_color=00FFB3&radius=12&title_color=00FFB3&custom_title=Actividad%20de%20commits"/>
 
 <br/><br/>
 
@@ -292,10 +292,10 @@ const contacto = {
 };
 ```
 
-<a href="https://linkedin.com/in/manuelandredp-gif"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFB3"/></a>
-<a href="https://github.com/manuelandredp-gif"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FFB3"/></a>
-<a href="mailto:tu-correo@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FFB3"/></a>
-<a href="https://wa.me/51999999999"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=00FFB3"/></a>
+<a href="https://linkedin.com/in/manuelandredp-gif"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFB3"/></a>
+<a href="https://github.com/manuelandredp-gif"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FFB3"/></a>
+<a href="mailto:tu-correo@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FFB3"/></a>
+<a href="https://wa.me/51999999999"><img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=00FFB3"/></a>
 
 <br/><br/>
 
